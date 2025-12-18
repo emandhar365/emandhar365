@@ -15,7 +15,7 @@ I'm a Data Science apprentice in the banking sector, currently completing my deg
 - GitHub, Prefect, and a growing interest in cloud data tools
 
 📂 Featured Project:
-Check out my [Airbnb Data Science Pipeline](https://github.com/YOUR_USERNAME/airbnbproject) — an end-to-end project that demonstrates data engineering, machine learning, and business insight generation using public Airbnb data.
+Check out my [Airbnb Data Science Pipeline]([https://github.com/YOUR_USERNAME/airbnbproject](https://github.com/emandhar365/dspp-airbnb-analysis) — an end-to-end project that demonstrates data engineering, machine learning, and business insight generation using public Airbnb data.
 
 ---
 
