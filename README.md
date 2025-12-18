@@ -1,4 +1,4 @@
-# Hi, I'm Harry 👋
+# Hi, I'm HP 👋
 
 I'm a Data Science apprentice in the banking sector, currently completing my degree while building real-world, portfolio-worthy projects.
 
